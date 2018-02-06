@@ -37,6 +37,9 @@ git push 403错误
 解决方案 重新设置用户名和密码 
 git remote set -url origin + 地址 
  
+ 
+ 
+ 增加几行文字 变为0.2 版本的 仅供测试使用
 
 
 
